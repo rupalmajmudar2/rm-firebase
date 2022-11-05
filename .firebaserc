@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "rm-moralis-on-firebase"
+  },
+  "targets": {},
+  "etags": {
+    "rm-moralis-on-firebase": {
+      "extensionInstances": {
+        "moralis-streams": "7b10882c540ce15cf83afb34f1ca81a190a6ff498f224d3e246fc64a05dc622a"
+      }
+    }
+  }
+}
