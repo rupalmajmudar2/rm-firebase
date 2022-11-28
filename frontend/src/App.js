@@ -9,7 +9,7 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBfYOErx8SA0c8OcI4rjlr-U7FIytyoYAc",
+  apiKey: "RM-FIREBASE-API-KEY",
   authDomain: "rm-moralis-on-firebase.firebaseapp.com",
   projectId: "rm-moralis-on-firebase",
   storageBucket: "rm-moralis-on-firebase.appspot.com",
